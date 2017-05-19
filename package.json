@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "monokai-one-dark-vivid",
+                "label": "Monokai One Dark Vivid",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai-one-dark-vivid-color-theme.json"
             }

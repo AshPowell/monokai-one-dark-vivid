@@ -437,7 +437,7 @@
     },
     {
       "name": "Packages",
-      "scope": "token.package",
+      "scope": "token.package,entity.name.type.namespace",
       "settings": {
         "foreground": "#ffffff"
       }
@@ -451,7 +451,7 @@
     },
     {
       "name": "Classes",
-      "scope": "entity.name.type.namespace,support.class",
+      "scope": "support.class",
       "settings": {
         "foreground": "#66D9EF"
       }
