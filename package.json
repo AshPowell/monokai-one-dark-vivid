@@ -1,8 +1,8 @@
 {
     "name": "monokai-one-dark-vivid",
-    "displayName": "monokai-one-dark-vivid",
+    "displayName": "Monokai One Dark Vivid",
     "description": "Just a personalised Monokai Vivid Syntax for One Dark.",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "publisher": "ashpowell",
     "engines": {
         "vscode": "^1.12.0"

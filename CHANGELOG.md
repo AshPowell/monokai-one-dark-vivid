@@ -1,7 +1,9 @@
 # Change Log
 All notable changes to the "monokai-one-dark-vivid" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Initial Release]
+- Name fix
+
+## [Initial Release]
 - Initial release
