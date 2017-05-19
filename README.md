@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "monokai-one-dark-vivid"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Monokai One Dark Vivid Theme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Just a personalised One Dark - Monokai Vivid theme for VS Code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![Screenshot](https://raw.githubusercontent.com/AshPowell/monokai-one-dark-vivid/master/screenshot.png)
