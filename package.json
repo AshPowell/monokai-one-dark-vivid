@@ -2,13 +2,13 @@
     "name": "monokai-one-dark-vivid",
     "displayName": "Monokai One Dark Vivid",
     "description": "Just a personalised Monokai Vivid Syntax for One Dark.",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "publisher": "ashpowell",
     "galleryBanner": {
         "color": "#192434",
         "theme": "dark"
     },
-    "icon": "icon.svg",        
+    "icon": "icon.svg",
     "bugs": {
         "url": "https://github.com/AshPowell/monokai-one-dark-vivid/issues"
     },
