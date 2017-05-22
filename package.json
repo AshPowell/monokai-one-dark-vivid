@@ -4,6 +4,19 @@
     "description": "Just a personalised Monokai Vivid Syntax for One Dark.",
     "version": "0.4.0",
     "publisher": "ashpowell",
+    "galleryBanner": {
+        "color": "#192434",
+        "theme": "dark"
+    },
+    "icon": "icon.svg",        
+    "bugs": {
+        "url": "https://github.com/AshPowell/monokai-one-dark-vivid/issues"
+    },
+    "homepage": "https://github.com/AshPowell/monokai-one-dark-vivid/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AshPowell/monokai-one-dark-vivid.git"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
