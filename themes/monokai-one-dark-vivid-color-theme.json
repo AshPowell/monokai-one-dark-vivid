@@ -64,7 +64,7 @@
     },
     {
       "name": "Text",
-      "scope": "variable.parameter.function,meta.block,meta.property-list,source",
+      "scope": "variable.parameter.function,meta.block,meta.property-list,source,text.html.twig,text.html",
       "settings": {
         "foreground": "#ffffff"
       }
@@ -215,7 +215,8 @@
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css,entity.other.attribute-name.class.css,entity.other.attribute-name.id.css",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#A6E22E",
+        "fontStyle": "italic"
       }
     },
     {
@@ -635,14 +636,15 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#A6E22E"
+        "foreground": "#A6E22E",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#A6E22E"
       }
     },
     {
@@ -1101,6 +1103,13 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#b267e6"
+      }
+    },
+    {
+      "name": "Twig Meta",
+      "scope": "meta.tag.template.value.twig",
+      "settings": {
+        "foreground": "#61AFEF"
       }
     }
   ]
