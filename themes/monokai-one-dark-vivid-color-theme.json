@@ -5,7 +5,9 @@
     "activityBar.foreground": "#fff",
     "activityBarBadge.background": "#5A637520",
     "activityBarBadge.foreground": "#747D91",
-    "button.background": "#A6B6D5",
+    // BUTTONS & LINKS
+    "button.background": "#fff",
+    "button.foreground": "#314365",
     "dropdown.background": "#1d1f23",
     "diffEditor.insertedTextBackground": "#00809B33",
     "dropdown.border": "#131c28",
