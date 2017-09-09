@@ -455,7 +455,7 @@
     },
     {
       "name": "New PHP Coloring",
-      "scope": "meta.method-call.php, punctuation.definition.parameters.begin.bracket.round.php, punctuation.definition.parameters.end.bracket.round.php, meta.function.parameters.php, meta.method-call.static.php, punctuation.terminator.expression.php, punctuation.definition.begin.bracket.round.php, punctuation.definition.end.bracket.round.php, punctuation.section.scope.begin.php",
+      "scope": "meta.method-call.php, punctuation.definition.parameters.begin.bracket.round.php, punctuation.definition.parameters.end.bracket.round.php, meta.function.parameters.php, meta.method-call.static.php, punctuation.terminator.expression.php, punctuation.definition.begin.bracket.round.php, punctuation.definition.end.bracket.round.php, punctuation.section.scope.begin.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php",
       "settings": {
         "foreground": "#ffffff"
       }
@@ -470,23 +470,16 @@
     },
     {
       "name": "Classes",
-      "scope": "entity.name.type.class",
+      "scope": "entity.name.type.class, entity.name.class",
       "settings": {
         "foreground": "#A6E22E"
       }
     },
     {
       "name": "Class name",
-      "scope": "entity.name.class.identifier.namespace.type",
+      "scope": "entity.name.class.identifier.namespace.type,meta.class.body.php",
       "settings": {
         "foreground": "#66D9EF"
-      }
-    },
-    {
-      "name": "Class name",
-      "scope": "entity.name.class, meta.class.body.php",
-      "settings": {
-        "foreground": "#61afef"
       }
     },
     {
