@@ -54,6 +54,7 @@
     "titleBar.activeForeground": "#747D91",
     "titleBar.inactiveBackground": "#131c28",
     "titleBar.inactiveForeground": "#747D9160",
+    "debugToolBar.background": "#131c28",
     "editorLink.activeForeground": "#ffffff"
   },
   "tokenColors": [
